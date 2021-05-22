@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Education",
+    "entries": [
+      {
+        "title": "Friedrich-Schiller-Universität Jena (FSU)",
+        "location": "Thüringen, Germany",
+        "from": "09/2003",
+        "to": "09/2004",
+        "description": "Fakultät für Chemie 5.S/6.S"
+      },
+      {
+        "title": "University of Granada",
+        "position": "UGR",
+        "location": "Granada, Spain",
+        "from": "09/1998",
+        "to": "09/2004",
+        "description": "MSc in Chemistry"
+      },
+      {
+        "title": "Polymer Technology Advanced Materials",
+        "position": "UNED",
+        "location": "Madrid, Spain",
+        "from": "07/2006",
+        "to": "07/2009"
+      }
+    ]
+  },
+  {
+    "title": "Experiences",
+    "entries": [
+      {
+        "title": "HELLA GmbH & Co. KGaA",
+        "position": "Development",
+        "location": "Lippstadt, Germany",
+        "from": "10/2012",
+        "to": "today",
+        "description": "Developing exterior lighting applications based on intensive usage of electronics, embedded systems and LED solutions."
+      },
+      {
+        "title": "VALEO Visibility Systems",
+        "position": "Manufacturing",
+        "location": "Martos, Spain",
+        "from": "09/2004",
+        "to": "09/2012",
+        "description": "Monitor and Control the conformity on Development processes of all Quality activities according to Project planning."
+      },
+      {
+        "title": "Analytik Jena AG",
+        "position": "Product Management",
+        "location": "Jena, Germany",
+        "from": "02/2004",
+        "to": "08/2004",
+        "description": "Analytical Instruments development. Elemental Analyzers - C/N/S/Cl. TOC - Total Organic Carbon analyzers. TOX - Total Organic Halides. User guiadance and software translation library with common standard methods for routine analysis with user-oriented functions, calibration, correction, recalculation, statistical functions."
+      }
+    ]
+  }
+]
