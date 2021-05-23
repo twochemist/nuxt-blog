@@ -11,5 +11,5 @@ export default {
   githubURL: 'https://github.com/twochemist',
   linkedinURL: 'https://www.linkedin.com/in/antonio-manuel-arjona/',
   blogFeedURL: 'https://antonioarjona.dev/posts/rss.xml',
-  email: 'manuel.lido@gmail.com',
+  email: 'info@arjonapulido.dev',
 }
