@@ -2,7 +2,7 @@
   <div v-if="isOpen" class="cookie">
     <h2>Cookies</h2>
     <p>
-      Can I use cookies for analytics? Would be nice, but it's also fine if you
+      I do not use cookies for analytics, but it's also fine if you
       disagree :)
     </p>
     <div class="buttons">
