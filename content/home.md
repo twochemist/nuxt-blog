@@ -1,5 +1,5 @@
-![copy](https://i.imgur.com/m8ROyDm.jpg)
-### Hey, I'm a Web Developer based in Westfalen, DE. 
+![copy](https://i.imgur.com/ojFoNeE.jpg)
+### Hey, I'm a Web Developer based in Germany, DE. 
 I've been making web applications with `JavaScript` and hobby projects in `Python`, `C++`. From time to time I code personal [projects](/projects) and even [write](/posts) about it.
 
 ### Always playing around with Tech.
