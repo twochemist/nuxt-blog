@@ -1,9 +1,9 @@
 ![copy](https://i.imgur.com/ojFoNeE.jpg)
-### Hey, I'm a Web Developer based in Germany, DE. 
-I've been making web applications with `JavaScript` and hobby projects in `Python`, `C++`. From time to time I code personal [projects](/projects) and even [write](/posts) about it.
+### Hey, I'm a programmer based in Germany - EU. 
+I've been making hobby projects in `Python` | `C++` and web applications with `JavaScript`. From time to time I code personal [projects](/projects) and even [write](/posts) about it.
 
 ### Always playing around with Tech.
-  I've been in love with web development for over half my life. It's a space of constantly changing and exciting new technology. 
+I've been in love with Web Development for over half my life. It's a space of constantly changing and exciting new technology. This is a list of technologies that I've become interested in:
 
 #### 💻 Front End Development
 
@@ -17,7 +17,7 @@ Arduino Hub. Not afraid of surface-mount components and can assembly anything by
 
 
 ```javascript
-⭐️ JavaScript | Python | C++ ⭐️
+⭐️ JavaScript|Python|C++ ⭐️
 ```
 
 
