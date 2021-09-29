@@ -1,7 +1,7 @@
 ---
 title: Zumba Instructor
 img: schmackofatz.png
-alt: The map screen of schmackofatz where users see the restaurants around them.
+alt: The map screen of Zumba Fitness activities.
 prio: 0
 status: 2
 links:
