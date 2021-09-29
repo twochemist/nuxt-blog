@@ -1,5 +1,5 @@
-![copy](https://i.imgur.com/fFSKUiV.jpg)
-### Hey, I'm Antonio, a Programmer based in Germany 🍺
+![copy](https://i.imgur.com/TLW3vPZ.jpg)
+### Programmer based in Germany 
 I've been making applications in `JavaScript`🌐 , `Python`🐍 and `C++`🦾. From time to time, during my spare time I code [pet projects](/projects) and usually even [write](/posts) about it. 
 
 ### Always playing around with Tech.
@@ -23,6 +23,8 @@ Data analysis, clustering, gradient boosting and deep learning. `Python` framewo
 
 ```javascript
 ⭐️JavaScript|Python|C++⭐️
+```
+
 
 
 
