@@ -1,4 +1,4 @@
-![copy](https://i.imgur.com/TLW3vPZ.jpg)
+![copy](https://i.imgur.com/xFqFYnS.png)
 ### Programmer based in Germany 
 I've been making applications in `JavaScript`🌐 , `Python`🐍 and `C++`🦾. From time to time, during my spare time I code [pet projects](/projects) and usually even [write](/posts) about it. 
 
