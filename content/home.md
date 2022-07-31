@@ -23,10 +23,6 @@ Data analysis, clustering, gradient boosting and deep learning. `Python` framewo
 💪 `Triathlon` whenever possible. I enjoy running in the nature, ride my <a href="https://www.tour-magazin.de/raeder/rennraeder/bulls-desert-falcon-pro/a27343.html">`BULLS`</a> and mastering the waves swimming in the Mediterranean sea. 
 ![Hobby](/triathlon.PNG)
 
-🎨 `Painting` whenever have the opportunity to capture the sea moments through watercolors or acrylics.  
-![Hobby](/watercolor1.PNG)
-![Hobby](/watercolor2.PNG)
-
 ```javascript
 🔨 Stack ⭐️ JavaScript | Python | C++ ⭐️
 ```
